@@ -1,0 +1,4 @@
+[submodule "juhenriquez/henca_fiscal_print"]
+	path = juhenriquez/henca_fiscal_print
+	url = git@github.com:juhenriquez/henca_fiscal_print.git
+	branch = master
