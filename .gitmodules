@@ -2,3 +2,8 @@
 	path = juhenriquez/henca_fiscal_print
 	url = git@github.com:juhenriquez/henca_fiscal_print.git
 	branch = master
+
+[submodule "rdoble/cssd"]
+	path = rdoble/cssd
+	url = git@github.com:rdoble/cssd.git
+	branch = master
